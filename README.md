@@ -6,6 +6,7 @@
 - Misael Abdias Nina Quispe — 10771398
 - Felipe Carvalho — 10771389
 - Bruno Hatisuka — 10771376
+- Mateus Dantas - 10756356
 
 ---
 
